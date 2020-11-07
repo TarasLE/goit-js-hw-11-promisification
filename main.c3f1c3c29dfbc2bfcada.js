@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(n,o,e){"use strict";e.r(o);e("JBxO"),e("FdtR");console.log("promisification");var t=function(n){return new Promise((function(o,e){setTimeout((function(){o(""+n)}),n)}))},i=function(n){return console.log("Resolved after "+n+"ms")};t(2e3).then(i),t(1e3).then(i),t(1500).then(i)}},[["QfWi",1,2]]]);
+//# sourceMappingURL=main.c3f1c3c29dfbc2bfcada.js.map
